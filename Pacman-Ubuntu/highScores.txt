@@ -1,3 +1,0 @@
-NoName,3070,d
-NoName,1540,r
-NoName2,1345,d
