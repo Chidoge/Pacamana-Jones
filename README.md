@@ -1,11 +1,32 @@
-Please run using the COMMAND LINE/TERMINAL.  
-Compile instructions - Command line  
-1) Open the folder "Pacman-Ubuntu".   
-2) Clean the project by typing "make clean" into the terminal.    
-3) Compile the project and run it by typing "make run" into the terminal.  
+A JavaFX game written in collaboration with [a fellow student](https://github.com/HenrygShen)    
 
+Introduction :    
+This is a game that is a parody mix between Pacman and Indiana Jones.    
+The player may play as Pacman in an Indiana Jones themed setting, where they need to collect artifacts    
+and avoid the ghosts in the maze. The special pellet grants the player 3 whip charges, to help them   
+fight off the ghosts and clear the map more easily. Traps will occasionally spawn too.     
 
-In case of compilation error or other errors when using command line, use the folder named "Pacman-pc_eclipse" and set that as the working directory when  
+The player is given 2 minutes to clear each map and a total of 3 lives per map.    
+There are 4 differently themed maps. Jungle, Ruins, Sea, and Desert.    
+
+This game can be single player or multiplayer( max of 4 total players ), where Player One will    
+play as Pacman and the other three will play as the ghosts.
+
+There is a leaderboard function, which will display the top 3 scores with their corresponding maps.    
+Any player may record their score and name, given that they have beaten the previous 3 high scores.    
+
+All assets were self-made using Photoshop, Paint and Audacity.    
+
+Some screenshots :    
+    
+![alt text](https://puu.sh/BBTtY/0d3b9af1b9.jpg)   
+
+    
+![alt text](https://puu.sh/BBTur/5cd15c2cb4.jpg)   
+
+Run instructions :    
+
+Use the folder named "Pacman-pc_eclipse" and set that as the working directory when  
 opening Eclipse.
 
 Compile instructions - Eclipse  
