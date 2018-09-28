@@ -1,4 +1,4 @@
-A JavaFX game written in collaboration with [a fellow student](https://github.com/HenrygShen)    
+A JavaFX game written in collaboration with [a fellow student](https://github.com/HenrygShen).    
 
 Introduction :    
 This is a game that is a parody mix between Pacman and Indiana Jones.    
@@ -16,13 +16,36 @@ There is a leaderboard function, which will display the top 3 scores with their 
 Any player may record their score and name, given that they have beaten the previous 3 high scores.    
 
 All assets were self-made using Photoshop, Paint and Audacity.    
+JavaFX Scene Builder was used to format the layouts of each scene.    
+
 
 Some screenshots :    
     
-![alt text](https://puu.sh/BBTtY/0d3b9af1b9.jpg)   
+As you may have noticed, for certain reasons we had to name the game Pacamana Jane.    
+
+![mainscreen](https://puu.sh/BCala/e2efe4c917.png)   
 
     
-![alt text](https://puu.sh/BBTur/5cd15c2cb4.jpg)   
+![alt text](https://puu.sh/BCamO/8bf4136864.jpg)   
+    
+
+![ms-ruins](https://puu.sh/BCanG/cb3fbd4549.png)    
+
+    
+![ms-sea](https://puu.sh/BCaqq/0e8e791146.png)    
+
+    
+![ms-desert](https://puu.sh/BCanG/cb3fbd4549.png)    
+
+    
+![ms-forest](https://puu.sh/BCau7/af71715878.jpg)    
+
+    
+![game](https://puu.sh/BCajT/0048ad478f.png)    
+
+    
+![leaderboard](https://puu.sh/BCawr/4c04cc56e7.jpg)    
+
 
 Run instructions :    
 
