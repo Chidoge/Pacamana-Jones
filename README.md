@@ -15,7 +15,7 @@ play as Pacman and the other three will play as the ghosts.
 There is a leaderboard function, which will display the top 3 scores with their corresponding maps.    
 Any player may record their score and name, given that they have beaten the previous 3 high scores.    
 
-All assets were self-made using Photoshop, Paint and Audacity.    
+Most assets were self-made using Photoshop, Paint and Audacity.    
 JavaFX Scene Builder was used to format the layouts of each scene.    
 
 
