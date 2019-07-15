@@ -20,10 +20,9 @@ JavaFX Scene Builder was used to format the layouts of each scene.
 
 
 Some screenshots :    
-    
-As you may have noticed, for certain reasons we had to name the game Pacamana Jane.    
+      
 
-![mainscreen](https://i.imgur.com/p79pl9O.png)   
+![mainscreen](https://i.imgur.com/S38ANCX.png)   
 
     
 ![ms-ruins](https://i.imgur.com/DARPcTG.png)   
